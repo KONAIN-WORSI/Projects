@@ -34,7 +34,7 @@ def typing_test(stdscr):
     current_text = []
     wpm = 0
     start_time = time.time()
-    # stdscr.nodelay(True)
+    stdscr.nodelay(True)
 
     while True:
         time_elapsed = max(time.time() - start_time, 1)
@@ -44,7 +44,7 @@ def typing_test(stdscr):
         display_text(stdscr, target_text, current_text, wpm)
 
         if "".join(current_text) == target_text:
-            # stdscr.nodelay(False)
+            stdscr.nodelay(False)
             break
 
         try:
