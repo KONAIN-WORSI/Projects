@@ -1,8 +1,6 @@
-
-
 class library():
     def __init__(self):
-        self.book = ['Java', 'Python', 'Philosophy', 'Rework', 'Atomic Habits']
+        self.book = ['java', 'python', 'philosophy', 'rework', 'atomic habits']
 
     def add_book(self, book_name=None):
         if book_name is None:
@@ -43,7 +41,7 @@ Please choose an option:
 5. Exit
                   ''')
             
-            choice = input('Enter your choice (1-5): ').upper()
+            choice = input('Enter your choice (1-5): ')
 
             lib = library()
             if choice == '1':
