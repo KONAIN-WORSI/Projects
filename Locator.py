@@ -1,9 +1,6 @@
 from geopy.geocoders import Nominatim
 import time
 
-
-
-
 for attempt in range(3):
         try:
             geolocator = Nominatim(user_agent="geo_app")
