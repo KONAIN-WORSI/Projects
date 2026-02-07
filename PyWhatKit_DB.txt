@@ -1,0 +1,15 @@
+Date: 18/1/2026
+Time: 13:13
+Phone Number: +977 9762980222
+Message: hello i am using pywhatkit to send message
+--------------------
+Date: 18/1/2026
+Time: 13:15
+Phone Number: +977 9762980222
+Message: hello i am using pywhatkit to send message
+--------------------
+Date: 18/1/2026
+Time: 13:17
+Phone Number: +977 9762980222
+Message: hello i am using pywhatkit to send message
+--------------------
