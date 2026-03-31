@@ -1,0 +1,19 @@
+TO: sarah.test@example.com
+SENT: 2026-03-31T17:40:26.707210
+SUBJECT: Quick follow-up on Test Email - Project Status
+------------------------------------------------------------
+
+Hello Sarah,
+
+Following up on our previous discussion about Test Email - Project Status when you have a chance.
+
+I wanted to see if there are any updates on the documents.
+
+Here are the key details:
+- Current progress
+- Blockers
+- Next steps
+
+Let me know if you have any questions.
+
+Thanks,

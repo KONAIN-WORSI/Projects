@@ -1,0 +1,16 @@
+TO: john.test@example.com
+SENT: 2026-03-31T17:40:25.704464
+SUBJECT: Quick note about Test Email - Feature Review
+------------------------------------------------------------
+
+Hi John,
+
+Just wanted to share some thoughts on Test Email - Feature Review.
+
+Let me know your thoughts on - Feature implementation
+- Performance metrics
+- Timeline.
+
+Happy to discuss further if needed.
+
+Best regards,

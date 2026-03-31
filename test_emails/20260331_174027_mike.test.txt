@@ -1,0 +1,16 @@
+TO: mike.test@example.com
+SENT: 2026-03-31T17:40:27.710692
+SUBJECT: Update on Test Email - Proposal
+------------------------------------------------------------
+
+Hi Mike,
+
+Quick update on Test Email - Proposal.
+
+Here are the details: - Solution overview
+- Pricing
+- Implementation timeline
+
+Happy to discuss further if needed.
+
+Best regards,

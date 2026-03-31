@@ -1,0 +1,5 @@
+name,email,relationship,topic,urgency,key_points
+Alice Cooper,alice@example.com,colleague,Test: Code Review,normal,Please review PR #123|Feedback needed by Friday|Thanks in advance
+Bob Wilson,bob@example.com,boss,Test: Weekly Standup,normal,Can we sync this week|Discuss Q3 objectives|Team updates
+Carol White,carol@example.com,client,Test: Project Proposal,high,Ready to discuss proposal|Need your feedback|Next steps
+Saba Khan,sabakhatun906@gmail.com,sister,Test: Family Reunion,low,Planning for summer|Looking forward to seeing everyone|Let me know your availability
